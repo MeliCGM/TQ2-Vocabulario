@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788498186547,
+  "updatedAt": 1788498211875,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -139,6 +139,11 @@
     "das Spülbad, ¨-er": {
       "box": 1,
       "due": 1788584586547,
+      "seen": 1
+    },
+    "die Mikrosystemtechnik (MST)": {
+      "box": 2,
+      "due": 1788757411875,
       "seen": 1
     }
   }
