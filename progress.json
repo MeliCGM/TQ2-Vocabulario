@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497427147,
+  "updatedAt": 1788497439658,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -59,6 +59,11 @@
     "das Maskenoxid, -e": {
       "box": 2,
       "due": 1788756627147,
+      "seen": 1
+    },
+    "das Gold": {
+      "box": 1,
+      "due": 1788583839658,
       "seen": 1
     }
   }
