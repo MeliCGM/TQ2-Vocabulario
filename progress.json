@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497596821,
+  "updatedAt": 1788497610574,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -79,6 +79,11 @@
     "das Ionenstrahl-/Atomstrahlsputtern": {
       "box": 2,
       "due": 1788756796820,
+      "seen": 1
+    },
+    "das Kilobyte (KB)": {
+      "box": 2,
+      "due": 1788756810574,
       "seen": 1
     }
   }
