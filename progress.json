@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497243919,
+  "updatedAt": 1788497259542,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -39,6 +39,11 @@
     "der Sensibilisator": {
       "box": 1,
       "due": 1788583643919,
+      "seen": 1
+    },
+    "der Multivibrator": {
+      "box": 1,
+      "due": 1788583659542,
       "seen": 1
     }
   }
