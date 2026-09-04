@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788498147396,
+  "updatedAt": 1788498186547,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -134,6 +134,11 @@
     "die Spannungsmessung": {
       "box": 2,
       "due": 1788757347396,
+      "seen": 1
+    },
+    "das Spülbad, ¨-er": {
+      "box": 1,
+      "due": 1788584586547,
       "seen": 1
     }
   }
