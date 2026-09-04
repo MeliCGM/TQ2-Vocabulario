@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788499223007,
+  "updatedAt": 1788499444007,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -199,6 +199,11 @@
     "der Kalibrierfaktor, -en": {
       "box": 2,
       "due": 1788758423006,
+      "seen": 1
+    },
+    "der Ätzabtrag": {
+      "box": 1,
+      "due": 1788585844007,
       "seen": 1
     }
   }
