@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788498286153,
+  "updatedAt": 1788498530457,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -159,6 +159,11 @@
     "der Sauerstoff": {
       "box": 1,
       "due": 1788584686153,
+      "seen": 1
+    },
+    "die Bandlücke, -n (GAP) / Sperrschicht / verbotene Zone": {
+      "box": 1,
+      "due": 1788584930457,
       "seen": 1
     }
   }
