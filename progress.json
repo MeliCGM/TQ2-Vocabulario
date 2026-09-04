@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788499472037,
+  "updatedAt": 1788499550506,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -209,6 +209,11 @@
     "die Teilchenanzahldichte": {
       "box": 1,
       "due": 1788585872037,
+      "seen": 1
+    },
+    "der Sättigungsbereich": {
+      "box": 1,
+      "due": 1788585950505,
       "seen": 1
     }
   }
