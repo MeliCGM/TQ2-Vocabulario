@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788498232458,
+  "updatedAt": 1788498266926,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -149,6 +149,11 @@
     "das Byte, -s": {
       "box": 0,
       "due": 1788584632458,
+      "seen": 1
+    },
+    "der Modulingenieur": {
+      "box": 1,
+      "due": 1788584666926,
       "seen": 1
     }
   }
