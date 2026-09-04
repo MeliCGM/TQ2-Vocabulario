@@ -1,9 +1,14 @@
 {
-  "updatedAt": 1788496790140,
+  "updatedAt": 1788496881505,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
       "due": 1788755990140,
+      "seen": 1
+    },
+    "die Korngröße (der Lötpaste)": {
+      "box": 2,
+      "due": 1788756081505,
       "seen": 1
     }
   }
