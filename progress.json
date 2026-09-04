@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497497640,
+  "updatedAt": 1788497596821,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -74,6 +74,11 @@
     "der Grundstromkreis": {
       "box": 2,
       "due": 1788756697640,
+      "seen": 1
+    },
+    "das Ionenstrahl-/Atomstrahlsputtern": {
+      "box": 2,
+      "due": 1788756796820,
       "seen": 1
     }
   }
