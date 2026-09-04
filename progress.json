@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788498530457,
+  "updatedAt": 1788499223007,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -164,6 +164,41 @@
     "die Bandlücke, -n (GAP) / Sperrschicht / verbotene Zone": {
       "box": 1,
       "due": 1788584930457,
+      "seen": 1
+    },
+    "der Kratzer, -": {
+      "box": 1,
+      "due": 1788584969874,
+      "seen": 1
+    },
+    "das Flipflop": {
+      "box": 1,
+      "due": 1788584995482,
+      "seen": 1
+    },
+    "die Belastbarkeit (des Ausgangs)": {
+      "box": 1,
+      "due": 1788585253573,
+      "seen": 1
+    },
+    "der Lochplattentisch / der Lochboden": {
+      "box": 2,
+      "due": 1788758074596,
+      "seen": 1
+    },
+    "der Scheinwiderstand": {
+      "box": 1,
+      "due": 1788585369566,
+      "seen": 1
+    },
+    "die Race Tracks / der Racetrack / Erosionsgraben": {
+      "box": 2,
+      "due": 1788758279373,
+      "seen": 1
+    },
+    "der Kalibrierfaktor, -en": {
+      "box": 2,
+      "due": 1788758423006,
       "seen": 1
     }
   }
