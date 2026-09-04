@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788496909103,
+  "updatedAt": 1788496941523,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -14,6 +14,11 @@
     "das Argon": {
       "box": 2,
       "due": 1788756109102,
+      "seen": 1
+    },
+    "die gasbindende Vakuumpumpe": {
+      "box": 1,
+      "due": 1788583341523,
       "seen": 1
     }
   }
