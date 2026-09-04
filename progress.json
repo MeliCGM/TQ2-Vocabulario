@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497839248,
+  "updatedAt": 1788497930976,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -109,6 +109,16 @@
     "das Heizmikroskop": {
       "box": 2,
       "due": 1788757039248,
+      "seen": 1
+    },
+    "das Ableitwiderstand-Fenster": {
+      "box": 1,
+      "due": 1788584326256,
+      "seen": 1
+    },
+    "die Waferfabrik, -en (Fab)": {
+      "box": 2,
+      "due": 1788757130976,
       "seen": 1
     }
   }
