@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497752521,
+  "updatedAt": 1788497797110,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -94,6 +94,11 @@
     "die Austauschdiffusion": {
       "box": 1,
       "due": 1788584152521,
+      "seen": 1
+    },
+    "der Pull-down-Widerstand, ¨-e": {
+      "box": 1,
+      "due": 1788584197110,
       "seen": 1
     }
   }
