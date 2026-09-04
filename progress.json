@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497930976,
+  "updatedAt": 1788497971956,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -119,6 +119,11 @@
     "die Waferfabrik, -en (Fab)": {
       "box": 2,
       "due": 1788757130976,
+      "seen": 1
+    },
+    "der Bearbeitungscarrier, -": {
+      "box": 2,
+      "due": 1788757171956,
       "seen": 1
     }
   }
