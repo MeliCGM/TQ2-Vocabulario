@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497259542,
+  "updatedAt": 1788497280079,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -44,6 +44,11 @@
     "der Multivibrator": {
       "box": 1,
       "due": 1788583659542,
+      "seen": 1
+    },
+    "die CEE 100": {
+      "box": 1,
+      "due": 1788583680079,
       "seen": 1
     }
   }
