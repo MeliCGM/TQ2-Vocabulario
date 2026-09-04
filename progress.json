@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788498266926,
+  "updatedAt": 1788498286153,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -154,6 +154,11 @@
     "der Modulingenieur": {
       "box": 1,
       "due": 1788584666926,
+      "seen": 1
+    },
+    "der Sauerstoff": {
+      "box": 1,
+      "due": 1788584686153,
       "seen": 1
     }
   }
