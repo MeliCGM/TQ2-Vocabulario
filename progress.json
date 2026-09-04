@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497480244,
+  "updatedAt": 1788497497640,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -69,6 +69,11 @@
     "das Hard Bake": {
       "box": 2,
       "due": 1788756680244,
+      "seen": 1
+    },
+    "der Grundstromkreis": {
+      "box": 2,
+      "due": 1788756697640,
       "seen": 1
     }
   }
