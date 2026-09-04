@@ -1,4 +1,10 @@
 {
-  "updatedAt": 1788465546681,
-  "progress": {}
+  "updatedAt": 1788496790140,
+  "progress": {
+    "der Gelblichtbereich": {
+      "box": 2,
+      "due": 1788755990140,
+      "seen": 1
+    }
+  }
 }
