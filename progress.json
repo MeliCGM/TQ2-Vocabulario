@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497042628,
+  "updatedAt": 1788497216725,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -24,6 +24,11 @@
     "der Schottky-Kontakt, -e": {
       "box": 1,
       "due": 1788583442628,
+      "seen": 1
+    },
+    "die Verlustleistung": {
+      "box": 1,
+      "due": 1788583616725,
       "seen": 1
     }
   }
