@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497439658,
+  "updatedAt": 1788497480244,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -64,6 +64,11 @@
     "das Gold": {
       "box": 1,
       "due": 1788583839658,
+      "seen": 1
+    },
+    "das Hard Bake": {
+      "box": 2,
+      "due": 1788756680244,
       "seen": 1
     }
   }
