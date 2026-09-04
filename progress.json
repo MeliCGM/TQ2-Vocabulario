@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497809701,
+  "updatedAt": 1788497839248,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -104,6 +104,11 @@
     "dotierte/undotierte Ätzbäder": {
       "box": 2,
       "due": 1788757009701,
+      "seen": 1
+    },
+    "das Heizmikroskop": {
+      "box": 2,
+      "due": 1788757039248,
       "seen": 1
     }
   }
