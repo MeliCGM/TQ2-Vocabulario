@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788499550506,
+  "updatedAt": 1788499559112,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -214,6 +214,11 @@
     "der Sättigungsbereich": {
       "box": 1,
       "due": 1788585950505,
+      "seen": 1
+    },
+    "der Massenseparator, -en": {
+      "box": 1,
+      "due": 1788585959112,
       "seen": 1
     }
   }
