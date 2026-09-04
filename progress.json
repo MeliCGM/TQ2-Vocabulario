@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497216725,
+  "updatedAt": 1788497231216,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -29,6 +29,11 @@
     "die Verlustleistung": {
       "box": 1,
       "due": 1788583616725,
+      "seen": 1
+    },
+    "der LDR (lichtabhängiger Widerstand) / Fotowiderstand": {
+      "box": 2,
+      "due": 1788756431215,
       "seen": 1
     }
   }
