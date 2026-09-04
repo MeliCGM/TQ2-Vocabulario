@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497971956,
+  "updatedAt": 1788498147396,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -124,6 +124,16 @@
     "der Bearbeitungscarrier, -": {
       "box": 2,
       "due": 1788757171956,
+      "seen": 1
+    },
+    "das Float-Zone-Verfahren (FZ, tiegelfreies Zonenziehen)": {
+      "box": 0,
+      "due": 1788584542375,
+      "seen": 1
+    },
+    "die Spannungsmessung": {
+      "box": 2,
+      "due": 1788757347396,
       "seen": 1
     }
   }
