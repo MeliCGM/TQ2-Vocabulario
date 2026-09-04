@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497621150,
+  "updatedAt": 1788497752521,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -89,6 +89,11 @@
     "das Trockentraining": {
       "box": 2,
       "due": 1788756821150,
+      "seen": 1
+    },
+    "die Austauschdiffusion": {
+      "box": 1,
+      "due": 1788584152521,
       "seen": 1
     }
   }
