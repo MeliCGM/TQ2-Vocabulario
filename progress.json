@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497610574,
+  "updatedAt": 1788497621150,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -84,6 +84,11 @@
     "das Kilobyte (KB)": {
       "box": 2,
       "due": 1788756810574,
+      "seen": 1
+    },
+    "das Trockentraining": {
+      "box": 2,
+      "due": 1788756821150,
       "seen": 1
     }
   }
