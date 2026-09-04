@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497231216,
+  "updatedAt": 1788497243919,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -34,6 +34,11 @@
     "der LDR (lichtabhängiger Widerstand) / Fotowiderstand": {
       "box": 2,
       "due": 1788756431215,
+      "seen": 1
+    },
+    "der Sensibilisator": {
+      "box": 1,
+      "due": 1788583643919,
       "seen": 1
     }
   }
