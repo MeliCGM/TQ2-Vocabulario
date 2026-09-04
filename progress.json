@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497797110,
+  "updatedAt": 1788497809701,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -99,6 +99,11 @@
     "der Pull-down-Widerstand, ¨-e": {
       "box": 1,
       "due": 1788584197110,
+      "seen": 1
+    },
+    "dotierte/undotierte Ätzbäder": {
+      "box": 2,
+      "due": 1788757009701,
       "seen": 1
     }
   }
