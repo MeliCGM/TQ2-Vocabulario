@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788498211875,
+  "updatedAt": 1788498232458,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -144,6 +144,11 @@
     "die Mikrosystemtechnik (MST)": {
       "box": 2,
       "due": 1788757411875,
+      "seen": 1
+    },
+    "das Byte, -s": {
+      "box": 0,
+      "due": 1788584632458,
       "seen": 1
     }
   }
