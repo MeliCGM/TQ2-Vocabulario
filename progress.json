@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788497329490,
+  "updatedAt": 1788497427147,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -54,6 +54,11 @@
     "SC1 (Standard Clean 1)": {
       "box": 1,
       "due": 1788583729490,
+      "seen": 1
+    },
+    "das Maskenoxid, -e": {
+      "box": 2,
+      "due": 1788756627147,
       "seen": 1
     }
   }
