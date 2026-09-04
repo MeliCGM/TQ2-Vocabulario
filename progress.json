@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788496941523,
+  "updatedAt": 1788497042628,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -19,6 +19,11 @@
     "die gasbindende Vakuumpumpe": {
       "box": 1,
       "due": 1788583341523,
+      "seen": 1
+    },
+    "der Schottky-Kontakt, -e": {
+      "box": 1,
+      "due": 1788583442628,
       "seen": 1
     }
   }
