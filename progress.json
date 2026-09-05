@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590194424,
+  "updatedAt": 1788590205907,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -234,6 +234,11 @@
     "eutektisch / das Eutektikum / nicht-eutektisch": {
       "box": 2,
       "due": 1788849394424,
+      "seen": 1
+    },
+    "der Ingot, -s / der Einkristall, -e": {
+      "box": 2,
+      "due": 1788849405907,
       "seen": 1
     }
   }
