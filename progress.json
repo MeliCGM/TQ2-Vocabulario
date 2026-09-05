@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590279531,
+  "updatedAt": 1788590327389,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -249,6 +249,11 @@
     "das Aluminium-Silizium-Target (~1% Si)": {
       "box": 1,
       "due": 1788676679531,
+      "seen": 1
+    },
+    "der Komparator": {
+      "box": 1,
+      "due": 1788676727389,
       "seen": 1
     }
   }
