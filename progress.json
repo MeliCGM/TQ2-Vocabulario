@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788500283119,
+  "updatedAt": 1788590181691,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -224,6 +224,11 @@
     "der Wirkleitwert (G)": {
       "box": 0,
       "due": 1788586683119,
+      "seen": 1
+    },
+    "die Gleichrichterdiode": {
+      "box": 1,
+      "due": 1788676581690,
       "seen": 1
     }
   }
