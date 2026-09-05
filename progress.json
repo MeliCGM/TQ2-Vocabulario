@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590205907,
+  "updatedAt": 1788590219783,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -239,6 +239,11 @@
     "der Ingot, -s / der Einkristall, -e": {
       "box": 2,
       "due": 1788849405907,
+      "seen": 1
+    },
+    "der verbotene Bereich": {
+      "box": 2,
+      "due": 1788849419782,
       "seen": 1
     }
   }
