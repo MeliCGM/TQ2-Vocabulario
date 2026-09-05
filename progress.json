@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590219783,
+  "updatedAt": 1788590279531,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -244,6 +244,11 @@
     "der verbotene Bereich": {
       "box": 2,
       "due": 1788849419782,
+      "seen": 1
+    },
+    "das Aluminium-Silizium-Target (~1% Si)": {
+      "box": 1,
+      "due": 1788676679531,
       "seen": 1
     }
   }
