@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590433960,
+  "updatedAt": 1788590522757,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -259,6 +259,16 @@
     "der Integrationsgrad": {
       "box": 1,
       "due": 1788676833960,
+      "seen": 1
+    },
+    "die Schwellspannung": {
+      "box": 1,
+      "due": 1788676917319,
+      "seen": 1
+    },
+    "die NaOH-Lösung": {
+      "box": 2,
+      "due": 1788849722756,
       "seen": 1
     }
   }
