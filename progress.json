@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590575039,
+  "updatedAt": 1788590616169,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -279,6 +279,11 @@
     "die Delamination": {
       "box": 2,
       "due": 1788849775039,
+      "seen": 1
+    },
+    "die Dispense-Probleme (pl.)": {
+      "box": 2,
+      "due": 1788849816169,
       "seen": 1
     }
   }
