@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590181691,
+  "updatedAt": 1788590194424,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -229,6 +229,11 @@
     "die Gleichrichterdiode": {
       "box": 1,
       "due": 1788676581690,
+      "seen": 1
+    },
+    "eutektisch / das Eutektikum / nicht-eutektisch": {
+      "box": 2,
+      "due": 1788849394424,
       "seen": 1
     }
   }
