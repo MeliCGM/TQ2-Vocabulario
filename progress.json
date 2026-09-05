@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590549695,
+  "updatedAt": 1788590575039,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -274,6 +274,11 @@
     "der Testwafer, -": {
       "box": 2,
       "due": 1788849749695,
+      "seen": 1
+    },
+    "die Delamination": {
+      "box": 2,
+      "due": 1788849775039,
       "seen": 1
     }
   }
