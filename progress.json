@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590522757,
+  "updatedAt": 1788590549695,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -269,6 +269,11 @@
     "die NaOH-Lösung": {
       "box": 2,
       "due": 1788849722756,
+      "seen": 1
+    },
+    "der Testwafer, -": {
+      "box": 2,
+      "due": 1788849749695,
       "seen": 1
     }
   }
