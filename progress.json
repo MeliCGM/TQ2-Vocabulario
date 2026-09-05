@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590327389,
+  "updatedAt": 1788590433960,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -254,6 +254,11 @@
     "der Komparator": {
       "box": 1,
       "due": 1788676727389,
+      "seen": 1
+    },
+    "der Integrationsgrad": {
+      "box": 1,
+      "due": 1788676833960,
       "seen": 1
     }
   }
