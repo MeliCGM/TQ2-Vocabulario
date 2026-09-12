@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788590616169,
+  "updatedAt": 1789234783028,
   "progress": {
     "der Gelblichtbereich": {
       "box": 2,
@@ -284,6 +284,11 @@
     "die Dispense-Probleme (pl.)": {
       "box": 2,
       "due": 1788849816169,
+      "seen": 1
+    },
+    "die Periodendauer (T)": {
+      "box": 2,
+      "due": 1789493983028,
       "seen": 1
     }
   }
